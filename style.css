@@ -1,0 +1,24 @@
+h2
+     {
+            color:aquamarine;
+            font-family: verdana;
+
+    }
+.btn{
+    background-color:#BD094C;
+    border: none;
+    padding: 10px;
+    color: #fff
+}
+.btn:hover{
+    background-color: #000000;
+}
+.btn1{
+    background-color:#BD094C;
+    border: none;
+    padding: 10px;
+    color: #fff
+}
+.btn1:hover{
+    background-color: #000000;
+}
